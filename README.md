@@ -1,4 +1,4 @@
-[![MasterHead]( https://i.pinimg.com/564x/07/6c/a4/076ca4ab40fb5f03c83021bdea86443d.jpg)](https://Kunald07.io)
+
 <h1 align="center">Hi 👋, I'm Kunal Deshmukh</h1>
 <h3 align="center">Innovative Frontend Developer Driving User-Centric Design from India</h3>
 
